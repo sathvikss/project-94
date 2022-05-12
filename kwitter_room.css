@@ -1,0 +1,15 @@
+body{
+    
+    background-color:rgba(104, 73, 182, 0.62);
+}
+section{
+    text-align:right;
+ 
+}
+#logout{
+    background-color: crimson;
+    color: black;
+    border-radius: 10px;
+    width: 80;
+    height: 30px;
+}
